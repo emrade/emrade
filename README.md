@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Fache</h1>
-<h3 align="center">A Mobile app, Front-end and Back-end Developer.</h3>
+<h1 align="left">Hi 👋, I'm Emmanuel Fache</h1>
+<h4 align="left">A Mobile app, Front-end and Back-end Developer.</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>

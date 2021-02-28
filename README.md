@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Emmanuel Fache</h1>
 <h4 align="left">A Mobile app, Front-end and Back-end Developer.</h4>
 
-- 🔭 I’m currently working on [Flutter Web Admin Template](flutter-web-admin-template)
+- 🔭 I’m currently working on [Flutter Web Admin Template](https://github.com/emrade/flutter-web-admin-template)
 
 - 🌱 I’m currently learning **Dialogflow**
 
